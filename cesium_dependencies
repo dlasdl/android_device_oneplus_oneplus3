@@ -1,0 +1,8 @@
+[
+{
+    "repository": "dlasdl/packages_apps_Hypercam",
+    "target_path": "packages/apps/Hypercam",
+    "branch": "ten",
+    "remote": "gitlab"
+}
+]
