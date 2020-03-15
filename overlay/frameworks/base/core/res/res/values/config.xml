@@ -442,4 +442,6 @@
     -->
     <integer name="config_longPressOnHomeBehavior">2</integer>
 
+	<!-- Button backlight -->
+    <integer name="config_buttonBrightnessSettingDefault">0</integer>
 </resources>
